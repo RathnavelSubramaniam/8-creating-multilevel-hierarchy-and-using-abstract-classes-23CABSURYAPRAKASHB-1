@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Practical8",
+      "setup": "",
+      "run": "javac Practical8.java && java Practical8",
+      "input": "",
+      "output": "Species: Lion, Age: 5\r\nSpecies: Eagle, Age: 3\r\nSpecies: Talking Parrot, Age: 2\r\nAre lion and eagle equal? false\r\nAre lion and lion equal? true\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
