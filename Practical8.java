@@ -83,6 +83,6 @@ public static void main(String[] args) {
    System.out.println(eagle);
    System.out.println(talkingParrot);
    System.out.println("Are lion and eagle equal? "+lion.equals(eagle));
-   System.out.println("Are lion and Mammal equal? "+lion.equals(new Mammal("Lion",5,"Grassland")));
+   System.out.println("Are lion and line equal? "+lion.equals(new Mammal("Lion",5,"Grassland")));
 }
 }
